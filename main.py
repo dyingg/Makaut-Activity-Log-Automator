@@ -156,9 +156,9 @@ def save_data(handle, index, data, student_code, token):
     # )
     print("Attendance logged for %s on %s" %  (topic, date))
    
-username = "14200118010"
-password = "LKTN909"
-name = "SURYASUNDAR BOSE"
+username = "YOUR USERNAME"
+password = "YOUR PASSWORD"
+name = "YOUR NAME"
 
 df = d.read_csv("data.csv")
 try:
